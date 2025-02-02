@@ -1,0 +1,50 @@
+[
+    {
+        "UID": 1,
+        "name": "红蓝小人大陆",
+        "address": "C:\\Galgame\\game-box\\Supraland - Six Inches Under\\SupralandSIU.exe",
+        "time": 37342.28356695175,
+        "last_time": 1736671959.9904711,
+        "size": 1000000000
+    },
+    {
+        "UID": 2,
+        "name": "一次性交易大师",
+        "address": "C:\\Galgame\\game-box\\Yarimono-GoldBerg\\Yarimono-GoldBerg\\data\\YM.exe",
+        "time": 0,
+        "last_time": 0,
+        "size": 3183343923
+    },
+    {
+        "UID": 3,
+        "name": "星光之蝶的死神咖啡厅",
+        "address": "C:\\Galgame\\game-box\\Café Stella and the Reaper's Butterflies\\CafeStella.exe",
+        "time": 0,
+        "last_time": 0,
+        "size": 7318557433
+    },
+    {
+        "UID": 4,
+        "name": "OuterWilds",
+        "address": "C:\\Galgame\\game-box\\Outer.Wilds.v1.1.15-P2P\\Outer.Wilds.v1.1.15-P2P\\OuterWilds.exe",
+        "time": 0,
+        "last_time": 0,
+        "size": 11654920046
+    },
+    {
+        "UID": 5,
+        "name": "女仆咖啡厅",
+        "address": "C:\\Galgame\\game-box\\Maid Cafe on Electric Street\\Maid Cafe on Electric Street\\Maid Cafe on Electric Street\\Maid Cafe on Electric Street.exe",
+        "time": 25749.554637670517,
+        "last_time": 1737894166.2594638,
+        "size": 2814115930
+    },
+    {
+        "UID": 6,
+        "name": "Norland",
+        "address": "C:\\Galgame\\game-box\\Norland\\Norland.exe",
+        "time": 30.76217007637024,
+        "last_time": 1737887120.1286936,
+        "size": 898332539
+    }
+]
