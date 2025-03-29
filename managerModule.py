@@ -2,8 +2,7 @@ import subprocess
 import time
 import json
 from pathlib import Path
-from nicegui import ui, events , app
-
+from nicegui import ui, events 
 import shared
 from file import file_operation, read_or_write
 
