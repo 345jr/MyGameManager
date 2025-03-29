@@ -1,7 +1,11 @@
-from managerModule import *
+from managerModule import add_game , checking , preview 
+from pathlib import Path
+from nicegui import ui , app
 from file import sort
 from file import crawler
+from file import file_operation
 
+import shared
 PATH = Path("../game-box")
 PATH_TORRENT = Path("./torrent")
 

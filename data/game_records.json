@@ -3,8 +3,8 @@
         "UID": 1,
         "name": "红蓝小人大陆",
         "address": "C:\\Galgame\\game-box\\Supraland - Six Inches Under\\SupralandSIU.exe",
-        "time": 37342.28356695175,
-        "last_time": 1736671959.9904711,
+        "time": 38159.01639842987,
+        "last_time": 1740705334.0213127,
         "size": 1000000000
     },
     {
@@ -24,14 +24,6 @@
         "size": 7318557433
     },
     {
-        "UID": 4,
-        "name": "OuterWilds",
-        "address": "C:\\Galgame\\game-box\\Outer.Wilds.v1.1.15-P2P\\Outer.Wilds.v1.1.15-P2P\\OuterWilds.exe",
-        "time": 0,
-        "last_time": 0,
-        "size": 11654920046
-    },
-    {
         "UID": 5,
         "name": "女仆咖啡厅",
         "address": "C:\\Galgame\\game-box\\Maid Cafe on Electric Street\\Maid Cafe on Electric Street\\Maid Cafe on Electric Street\\Maid Cafe on Electric Street.exe",
@@ -41,10 +33,10 @@
     },
     {
         "UID": 6,
-        "name": "Norland",
-        "address": "C:\\Galgame\\game-box\\Norland\\Norland.exe",
-        "time": 30.76217007637024,
-        "last_time": 1737887120.1286936,
-        "size": 898332539
+        "name": "Summer pocket",
+        "address": "C:\\Galgame\\game-box\\Summer pocket\\Summer Pockets REFLECTION BLUE.part1\\Summer Pockets REFLECTION BLUE\\SummerPocketsRB_cn.exe",
+        "time": 3324.1746311187744,
+        "last_time": 1743227454.9349813,
+        "size": 14636723380
     }
 ]
